@@ -1,0 +1,31 @@
+.reservation p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.reservation img{
+             margin-left:35%;
+              height:500px;
+              width:450px;
+
+}
+body h1{
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    font-size: 50px;
+}
+body{
+   /* background-color:rgb(212, 193, 169) ;*/
+   background-image:url(https://www.hotelierindia.com/public/images/2019/08/16/shutterstock_1278665539_3.jpg);
+   background-size:cover;
+   backdrop-filter: blur(4px);
+}
+.reservation button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(156, 42, 42);
+    display:oblique;
+    margin-left: 50%;
+    height:30px;
+    border-radius:10px;
+    border-color: bisque;
+}

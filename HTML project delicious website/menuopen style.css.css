@@ -1,0 +1,25 @@
+
+body p{
+    text-align: center;
+    margin-top:300px;
+    font-size: 100px;
+    font-style: italic;
+}   
+body{
+    background-image:url(menuuuu.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.bttn a {
+       text-align: center;
+       margin-left:750px;
+       margin-top: 0px;
+       font-family:cursive;
+       cursor: pointer;
+       color: rgb(12, 17, 21);
+       font-style: italic;
+}
+.bttn a :hover{
+    display: oblique;
+    background-color: #ceeaff;
+}

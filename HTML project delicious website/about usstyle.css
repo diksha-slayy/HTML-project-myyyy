@@ -1,0 +1,61 @@
+body{
+    background-image:url(https://images4.alphacoders.com/108/thumb-1920-1083747.jpg);
+    background-size:cover;
+}
+body h1{
+    font-family:fantasy ;
+    font-size:5rem;
+    color:rgb(135, 133, 120);
+}
+.pi img{
+    align-content:left;
+    width: 50px;
+    height:40px;
+    image-rendering:cyclic;
+    border-image-width:0px;
+    border-top-right-radius:20% ;
+    border-bottom-right-radius:20%;
+   border-top-left-radius:40%;
+    border-top-right-radius:40%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius:40%;
+}
+body p{
+    font-family:lucida;
+    color:rgb(236, 218, 218);
+    font-size:1rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.loc {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+.loc h2{
+      font-family:'Courier New', Courier, monospace;
+      font-size:30px;
+     color:honeydew;
+}
+
+.loc p{
+       font-family: cursive;
+       font-size:10px;
+}
+
+
+.loc h3{
+        font-family:'Courier New', Courier, monospace;
+        font-size:15px;
+        color:honeydew;
+}

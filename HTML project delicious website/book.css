@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url(https://i.pinimg.com/originals/81/25/de/8125de38cd64a0e440b20c29304c20eb.jpg);
+    background-size:cover;
+    backdrop-filter: blur(4px);
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-image: url(https://www.bluewatershotel.co.za/images/blue-waters-lunch-dinner-versailles.jpg);
+    backdrop-filter: blur(4px);
+    background-size: cover; 
+    color: #0b0b0b;
+    text-align: center;
+    padding: 20px 0;
+    height:150px;
+    font-size: 30px; 
+}
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    max-width: 600px;
+    margin: 20px auto;
+    margin-top:60px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  input[type="submit"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #555;
+  }

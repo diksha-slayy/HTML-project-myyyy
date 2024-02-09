@@ -1,0 +1,75 @@
+body h1{
+        color:rgb(45, 47, 50);
+        background-color: darkgrey;
+    }
+body{
+   background-image: url(https://thumbs.dreamstime.com/b/chalkboard-italian-food-ingredients-vintage-47277343.jpg);
+    background-size:1520px;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(4px);
+
+}
+.card {
+    width:500px;
+    height:660px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    background-image: url(card\ wp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .card-content {
+    padding: 20px;
+    text-align: center;
+  }
+  .card-content h2{
+    font-size:15px;
+  }
+  
+  .card-content h3 {
+    margin-top: 0;
+    font-size:19px;
+  }
+  
+  .card-content  ul{
+    color: #fff1f1;
+    font-size:13px;
+    
+  }
+.card-content h4{
+    font-size:14px;
+}
+.cardd{
+    width:500px;
+    height:660px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    justify-content:center;
+    background-image: url(card\ wp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carddd{
+    width:500px;
+    height:660px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    justify-content:center;
+    background-image: url(card\ wp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+        justify-content: center;
+        display:flex;
+        margin-top: 0px;
+}

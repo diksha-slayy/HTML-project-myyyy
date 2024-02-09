@@ -1,0 +1,77 @@
+body{
+    /*background: linear-gradient(to top, rgb(209, 198, 198),#695f5f);*/
+   
+   background-image:url(https://th.bing.com/th/id/OIP.3_d17ZlNfX4spzjSigKeWwHaE8?w=235&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+   background-size: cover;
+   backdrop-filter: BLUR(5px);
+
+}
+
+header{
+       color: rgb(233, 217, 217);
+       margin-left:590px;
+       font-size:100px;
+    }
+.indi img{
+    height:400px;
+ width:500px;
+}
+.indi H1{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size:90px;
+    color: beige;
+}
+.indi h2{
+    font-family: cursive;
+    color: beige;
+    margin-top: 0px;
+    font-size:90px;
+}
+.itali img{
+    height:400px;
+ width:500px;
+}
+.itali img .hover{
+    transform:scale(1);
+    transition: transform 0.3s ease-out;
+}
+.itali h1{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size:80px;
+    color: beige;
+}
+.itali h2{
+    font-family: cursive;
+    color: beige;
+    margin-top: 0px;
+    font-size:40px;
+}
+.korean img{
+    height:450px;
+ width:500px;
+}
+.korean h1{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size:70px;
+    color: beige;
+}
+.korean h2{
+    font-family:cursive;
+    color: beige;
+    margin-top: 0px;
+    font-size:40px;
+}
+.thank p{
+         font-size:20px;
+         color:rgb(216, 223, 223);
+         margin-left: 0px;
+        text-align: center;
+}
+
+.thank h3{
+    text-align: center;
+         font-size:50px;
+         margin-top: 0px;
+         justify-content: center;
+color: aliceblue;
+}
